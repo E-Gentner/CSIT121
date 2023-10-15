@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: #727272;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1, h2 {
+    padding-top: 0.5em;
+    margin-top: auto;
+    color: #053B50;
+    font-weight: bold;    
+    text-transform: capitalize;
+}
+li {
+    text-align: left;
+    margin: auto 15%;
+    margin-bottom: 0.75em;
+}
+
+p {
+    color: #64CCC5;
+}
+
+hr {
+    margin: 7px 15%;
+    height: 4px;
+    background-color: black;
+    border-color: black;
+}
+
+.section-title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.footnotes {
+    text-align: center;
+    margin: 3px 25%;
+    padding-bottom: 0.5em;
+    color: black;
+}
