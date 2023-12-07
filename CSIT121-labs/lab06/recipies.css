@@ -76,3 +76,20 @@ a:hover{
     border-radius: 10px;
     margin: 0 5%;
 }
+
+@media only screen and (max-width: 768px){
+    .container{
+        width: 95%;
+    }
+    .ingredients {
+        width: 100%;
+    }
+    .instructions {
+        width: 100%;
+    }
+    .footnotes {
+        width: auto;
+        float: center;
+    }
+
+}
